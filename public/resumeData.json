@@ -1,0 +1,252 @@
+{
+  "main": {
+    "name": "Mario Montoto",
+    "occupation": "Desarrollador Front-End, Técnico GIS,  Geógrafo ",
+    "description": "Aplicación creada a modo de presentación de mi perfil",
+    "image": "profilepic.jpg",
+    "bio": "Me gusta todo lo que tiene que ver con la interfaz web. Los mapas y la información que se puede extraer de ellos. ",
+    "contactmessage": "Contactar",
+    "email": "youremailhere@gmail.com",
+    "phone": "555-555-5555",
+    "address": {
+      "street": "(Your Street)",
+      "city": "Pozuelo de Alarcón",
+      "state": "Madrid",
+      "zip": "(28223)"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "http://timbakerdev.com",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "http://facebook.com/tim.baker.906",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "http://twitter.com",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://es.linkedin.com/in/mario-montoto-%C3%A1lvarez/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "http://instagram.com/tbaker_x",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/oneseve",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Nivel de conocimientos: ",
+    "education": [
+      {
+        "school": "IES San Juan de la Cruz",
+        "degree": "Grado Superior Desarrollo de Aplicaciones Web",
+        "graduated": "2020-",
+        "description": "Html 5, CSS 3, JavaScript, Java..."
+      },
+      {
+        "school": "Esri España",
+        "degree": "MásterGIS Presencial",
+        "graduated": "2018",
+        "description": "ArcGis Online, ArcMap, ArcGis Pro..."
+      },
+      {
+        "school": "Universidad Complutense de Madrid",
+        "degree": "Geografía y Ordenación del Territorio",
+        "graduated": "Septiembre 2016",
+        "description": ""
+      }
+    ],
+    "work": [
+      {
+        "company": "Tragsatec",
+        "title": "Grabador Fotointérprete ",
+        "years": "Julio 2019 - Febrero 2020",
+        "description": ""
+      },
+      {
+        "company": "Strategia y Kalidad GIS",
+        "title": "Estudiante en prácticas",
+        "years": "Mayo 2018 - Junio 2018",
+        "description": ""
+      }
+    ],
+    "skills": [
+      {
+        "name": "Git",
+        "level": "10%"
+      },
+      {
+        "name": "Illustrator",
+        "level": "10%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "30%"
+      },
+      {
+        "name": "CSS",
+        "level": "80%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "Javascript",
+        "level": "60%"
+      },
+      {
+        "name": "Java",
+        "level": "50%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Ejercicio 8_1",
+        "category": "ejercicio que muetsra hola en amarillo",
+        "image": "palabracursor.jpg",
+        "url": "https://github.com/oneseve/Ejercicios_JS/tree/master/Ejercicios_Tema_8/ejercicio_8_1",
+        "demo":"./ejerciciosjs/ejercicios_tema_8/ejercicio_8_1/ejercicio_8_1.html"
+       
+      },
+      {
+        "title": "Ejercicio 8_2",
+        "category": "Muestra una imagen aleatoria al pulsar Alt+F12",
+        "image": "altf12.jpg",
+        "url": "https://github.com/oneseve/Ejercicios_JS/tree/master/Ejercicios_Tema_8/ejercicio_8_2",
+        "demo":"./ejerciciosjs/ejercicios_tema_8/ejercicio_8_2/ejercicio_8_2.html"
+      },
+      {
+        "title": "Ejercicio 8_2 Coordenadas",
+        "category": "Muestra las coordenadas del puntero",
+        "image": "Coordenadas.jpg",
+        "url": "https://github.com/oneseve/Ejercicios_JS/tree/master/Ejercicios_Tema_8/ejercicio_8_2_Coordenadas",
+        "demo":"./ejerciciosjs/ejercicios_tema_8/ejercicio_8_2_Coordenadas/ejercicio_8_2_Coordenadas.html"
+      },
+      {
+        "title": "Ejercicio 8_3",
+        "category": "Cuadro que cambiar de color al pasar por encima y al hacer click",
+        "image": "cuadradohoverclick.jpg",
+        "url": "https://github.com/oneseve/Ejercicios_JS/tree/master/Ejercicios_Tema_8/ejercicio_8_3",
+        "demo":"./ejerciciosjs/ejercicios_tema_8/ejercicio_8_3/ejercicio_8_3.html"
+      },
+      {
+        "title": "Ejercicio 8_4",
+        "category": "Sube los números pulsando las flechas",
+        "image": "flechas.jpg",
+        "url": "https://github.com/oneseve/Ejercicios_JS/tree/master/Ejercicios_Tema_8/ejercicio_8_4",
+        "demo":"./ejerciciosjs/ejercicios_tema_8/ejercicio_8_4/ejercicio_8_4.html"
+      },
+      {
+        "title": "Ejercicio 8_5",
+        "category": "Texto en una cajita",
+        "image": "textocajita.jpg",
+        "url": "https://github.com/oneseve/Ejercicios_JS/tree/master/Ejercicios_Tema_8/ejercicio_8_5",
+        "demo":"./ejerciciosjs/ejercicios_tema_8/ejercicio_8_5/ejercicio_8_5.html"
+      },
+      {
+        "title": "Ejercicio 8_6",
+        "category": "Muestra imágenes de aleatorias",
+        "image": "imagenesaleatorias.jpg",
+        "url": "https://github.com/oneseve/Ejercicios_JS/tree/master/Ejercicios_Tema_8/ejercicio_8_6",
+        "demo":"./ejerciciosjs/ejercicios_tema_8/ejercicio_8_6/ejercicio_8_6.html"
+      },
+      {
+        "title": "Ejercicio 8_7",
+        "category": "Arrastra un cuadrado de una posición a otra",
+        "image": "cuadroarrastrar.jpg",
+        "url": "https://github.com/oneseve/Ejercicios_JS/tree/master/Ejercicios_Tema_8/ejercicio_8_7",
+        "demo":"./ejerciciosjs/ejercicios_tema_8/ejercicio_8_7/ejercicio_8_7.html"
+      },
+      {
+        "title": "Apartado_8_3_4",
+        "category": "Enlace Wikipedia",
+        "image": "enlacewikipedia.jpg",
+        "url": "https://github.com/oneseve/Ejercicios_JS/tree/master/Ejercicios_Tema_8/apartado_8_3_4",
+        "demo":"./ejerciciosjs/ejercicios_tema_8/apartado_8_3_4/apartado_8_3_4.html"
+      },
+      {
+        "title": "Apartado_8_3_5",
+        "category": "Pinta de verde la pantalla y pasado uno segundos cambia a color rojo.",
+        "image": "fondoverde.jpg",
+        "url": "https://github.com/oneseve/Ejercicios_JS/tree/master/Ejercicios_Tema_8/apartado_8_3_5",
+        "demo":"./ejerciciosjs/ejercicios_tema_8/apartado_8_3_5/apartado_8_3_5.html"
+      },
+      {
+        "title": "Apartado_8_3_6",
+        "category": "(MVP Only) A React and Meteor based chat University project.",
+        "image": "colorearojo.jpg",
+        "url": "https://github.com/oneseve/Ejercicios_JS/tree/master/Ejercicios_Tema_8/apartado_8_3_6",
+        "demo":"./ejerciciosjs/ejercicios_tema_8/apartado_8_3_6/apartado_8_3_6.html"
+      },
+      {
+        "title": "Practica_9_1",
+        "category": "Muestra un mensaje pasado unos segundos",
+        "image": "cuenta.jpg",
+        "url": "https://github.com/oneseve/Ejercicios_JS/tree/master/Ejercicios_Tema_9/Practica9_1",
+        "demo":"./ejerciciosjs/Ejercicios_Tema_9/Practica9_1/TemporizadorPromesa.html"
+      },
+      {
+        "title": "Cara y Cruz",
+        "category": "Cara y Cruz se ejecuta en consola",
+        "image": "caracruz.jpg",
+        "url": "https://github.com/oneseve/Ejercicios_JS/blob/master/Ejercicios_Tema_9/EjerciciosPromesas_Javadesde0/CaraCruz_Promesas.html",
+        "demo":"./ejerciciosjs/Ejercicios_Tema_9/EjerciciosPromesas_Javadesde0/CaraCruz_Promesas.html"
+      },
+      {
+        "title": "Portero Discoteca",
+        "category": "Portero Discoteca se ejecuta en consola",
+        "image": "portero.jpg",
+        "url": "https://github.com/oneseve/Ejercicios_JS/blob/master/Ejercicios_Tema_9/EjerciciosPromesas_Javadesde0/PorteroDiscoteca.html",
+        "demo":"./ejerciciosjs/Ejercicios_Tema_9/EjerciciosPromesas_Javadesde0/PorteroDiscoteca.html"
+      },
+      {
+        "title": "Punto_9_4",
+        "category": "Tiempos se ejecuta en consola",
+        "image": "tiempo.jpg",
+        "url": "https://github.com/oneseve/Ejercicios_JS/tree/master/Ejercicios_Tema_9/Punto9_4",
+        "demo":"./ejerciciosjs/Ejercicios_Tema_9/Punto9_4/tiempos.html"
+      },
+      {
+        "title": "Punto_9_4_3_5",
+        "category": "Promesas tiempo se ejecuta en consola a los 10'' ",
+        "image": "diez.jpg",
+        "url": "https://github.com/oneseve/Ejercicios_JS/tree/master/Ejercicios_Tema_9/Punto_9_4_3_5",
+        "demo":"./ejerciciosjs/Ejercicios_Tema_9/Punto_9_4_3_5/promesas.html"
+      },
+      {
+        "title": "Cuadro Azul Slide con jquery",
+        "category": "Botón que desplaza un cuadro y lo oculta usando jquery",
+        "image": "cuadroazul.jpg",
+        "url": "https://github.com/oneseve/Ejercicios_JS/tree/master/ejercicios_librerias/cuadro_Azul_slide",
+        "demo":"./ejerciciosjs/ejercicios_librerias/cuadro_Azul_slide/jquery_slide.html"
+      },
+      {
+        "title": "slide Gr.B",
+        "category": "Practica de uso del tipo de slide: slideToggle",
+        "image": "grB.jpg",
+        "url": "https://github.com/oneseve/Ejercicios_JS/tree/master/ejercicios_librerias/slide",
+        "demo":"./ejerciciosjs/ejercicios_librerias/slide/slide.html"
+      },
+      {
+        "title": "Test Examen",
+        "category": "Ejercicio prueba examen",
+        "image": "testExamen.jpg",
+        "url": "https://github.com/oneseve/Ejercicios_JS/tree/master/testExamen",
+        "demo":"./ejerciciosjs/testExamen/prueba.html"
+      }
+    ]
+  }
+}
