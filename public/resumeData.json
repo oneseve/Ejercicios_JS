@@ -9,7 +9,7 @@
     "email": "youremailhere@gmail.com",
     "phone": "555-555-5555",
     "address": {
-      "street": "(Your Street)",
+      "street": "Calle San Juan de la Cruz",
       "city": "Pozuelo de Alarcón",
       "state": "Madrid",
       "zip": "(28223)"
@@ -18,24 +18,9 @@
     "resumedownload": "http://timbakerdev.com",
     "social": [
       {
-        "name": "facebook",
-        "url": "http://facebook.com/tim.baker.906",
-        "className": "fa fa-facebook"
-      },
-      {
-        "name": "twitter",
-        "url": "http://twitter.com",
-        "className": "fa fa-twitter"
-      },
-      {
         "name": "linkedin",
         "url": "https://es.linkedin.com/in/mario-montoto-%C3%A1lvarez/",
         "className": "fa fa-linkedin"
-      },
-      {
-        "name": "instagram",
-        "url": "http://instagram.com/tbaker_x",
-        "className": "fa fa-instagram"
       },
       {
         "name": "github",
